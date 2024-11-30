@@ -1,2 +1,2 @@
 # kubernetes-udemy
-scripts and materials from udemy kubernetes course
+scripts and  materials from udemy kubernetes course
